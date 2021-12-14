@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is the place where I publish the strangest and most interesting things
 
-- 👋 Hi, I’m Oleh Bereza, I live and study in Poland in the town of Gdańsk.
+- 👋 Hi, I’m Oleh Bereza, I live and study in Poland to be a programmer in the town of Gdańsk.
 - 👀 I’m interested in various products and software development. I love creating design and style for all kinds of projects.
 - 🌱 I’m currently learning at the University of Gdańsk "Wyzsza Szkołą Bankowa"
     Before that I dropped out of elementary school. Later graduated from technical school in Poland in the town of Tarnobrzeg.
