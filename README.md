@@ -5,7 +5,7 @@ This is the place where I publish the strangest and most interesting things
 - 👀 I’m interested in various products and software development. I love creating design and style for all kinds of projects.
 - 🌱 I’m currently learning at the University of Gdańsk "Wyzsza Szkołą Bankowa"
     Before that I dropped out of elementary school. Later graduated from technical school in Poland in the town of Tarnobrzeg.
-- ⚡ Шnteresting fact I draw, I like to play tennis and generally like sports.
+- ⚡ Interesting fact I draw, I like to play tennis and generally like sports.
 - 📫 How to reach me | Gmail: olegbereza137@gmail.com | Instagram: @ob.bereza | Behance: Oleh Onyer |
 <!---
 - 🔭 I’m currently working on ...
