@@ -14,6 +14,12 @@ This is the place where I publish the strangest and most interesting things
        Gmail: olegbereza137@gmail.com<br>
        Instagram: @ob.bereza<br>
        Behance: Oleh Onyer<br>
+       
+         
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-behance-30.png?raw=true)](https://www.behance.net/onyer)
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-facebook-30.png?raw=true)](https://www.facebook.com/bob.carat.94)
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-instagram-30.png?raw=true)](https://www.instagram.com/ob.berezv/)
+  
 <!---
 - 🔭 I’m currently works on personal development in programming and creating various beautiful designs
 - 🌱 I’m currently learning ...
