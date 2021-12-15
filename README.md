@@ -6,7 +6,10 @@ This is the place where I publish the strangest and most interesting things
 - 🌱 I’m currently learning at the University of Gdańsk "Wyzsza Szkołą Bankowa"
     Before that I dropped out of elementary school. Later graduated from technical school in Poland in the town of Tarnobrzeg.
 - ⚡ Interesting fact I draw, I like to play tennis and generally like sports.
-- 📫 How to reach me | Gmail: olegbereza137@gmail.com | Instagram: @ob.bereza | Behance: Oleh Onyer |
+- 📫 How to reach me <br> 
+       Gmail: olegbereza137@gmail.com<br>
+       Instagram: @ob.bereza<br>
+       Behance: Oleh Onyer<br>
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
