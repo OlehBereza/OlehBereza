@@ -8,6 +8,8 @@ This is the place where I publish the strangest and most interesting things
     Before that I dropped out of elementary school. Later graduated from technical school in Poland in the town of Tarnobrzeg.
 - 🔭 I’m currently works on personal development in programming and creating various beautiful designs
 - ⚡ Interesting fact I draw, I like to play tennis and generally like sports.
+- 🦄 <strong>Skills:</strong> HTML, CSS, JAVA, C++, Adobe Ilustration, Adobe Photoshop, Figma.
+- 💼 <strong>Tools:</strong> Visual Studio Code, Visual Studio, IntelliJ IDEA, Adobe Ilustration, Adobe Photoshop.
 - 📫 <strong>How to reach me</strong> <br> 
        Gmail: olegbereza137@gmail.com<br>
        Instagram: @ob.bereza<br>
